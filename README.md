@@ -1,6 +1,5 @@
 # SCHOLARSHIP-MANAGEMENT-SYSTEM
-README
-Scholarship Management System
+
 A simple computer-based application designed to streamline scholarship applications and evaluations for students and administrators.
 Features
 The system provides online application submission, allowing students to apply for scholarships and upload documents without visiting the office. Qualification verification enables admins to review and evaluate student eligibility based on predefined criteria. Schedule management functionality lets users set and view submission deadlines and interview schedules. Status notifications provide real-time updates on application status and important announcements. The system supports document upload for soft copies of requirements, and all applicant data and documents are stored securely in SQLite database storage.
